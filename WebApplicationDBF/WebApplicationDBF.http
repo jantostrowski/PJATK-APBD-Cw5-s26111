@@ -1,0 +1,6 @@
+@WebApplicationDBF_HostAddress = http://localhost:5258
+
+GET {{WebApplicationDBF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
